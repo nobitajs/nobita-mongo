@@ -1,10 +1,10 @@
 {
   "name": "nobita-mongo",
-  "version": "0.0.4",
+  "version": "0.0.8",
   "description": "nobita-mongo",
   "main": "lib/nobita-mongo.js",
   "dependencies": {
-    "mongoose": "5.1.7"
+    "mongoose": "5.4.0"
   },
   "files": [
     "lib"
