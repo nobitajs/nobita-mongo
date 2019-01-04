@@ -1,6 +1,6 @@
 {
   "name": "nobita-mongo",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "nobita-mongo",
   "main": "lib/nobita-mongo.js",
   "dependencies": {
