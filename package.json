@@ -1,8 +1,8 @@
 {
   "name": "nobita-mongo",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "nobita-mongo",
-  "main": "lib/nobita-mongo.js",
+  "main": "index.js",
   "dependencies": {
     "mongoose": "5.4.0"
   },
@@ -11,7 +11,7 @@
   ],
   "repository": { 
     "type" : "git", 
-    "url" : "https://github.com/iamtang/nobita.git"
+    "url" : "https://github.com/nobitajs/nobita.git"
   },
   "keywords": [
     "koa",
@@ -22,7 +22,7 @@
     "node": ">=8.0.0"
   },
   "bugs": {
-    "url": "https://github.com/iamtang/nobita/issues",
+    "url": "https://github.com/nobitajs/nobita/issues",
     "email": "303907720@qq.com"
   },
   "author": "JJ",
