@@ -1,6 +1,6 @@
 {
   "name": "nobita-mongo",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "description": "nobita-mongo",
   "main": "index.js",
   "dependencies": {
